@@ -1,0 +1,16 @@
+footer{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color:rgb(8, 117, 206);
+    align-items: center;
+    justify-items: center;
+    padding: 30px;
+  }
+  footer p{
+    color: white;
+  }
+  footer .logo{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+  }

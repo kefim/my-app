@@ -1,0 +1,25 @@
+.app{
+  margin: 0;
+}
+.text-section{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.text-section h2{
+  text-align: center;
+}
+.sliderImg{
+  background-color: rgb(198, 226, 226);
+  color: white;
+  margin: 10px;
+  padding: 2%;
+  position: relative;
+
+}
+.slick-next:before{
+  color: rgb(7, 105, 105);
+
+}
+.slick-prev:before{
+  color: rgb(7, 105, 105);
+}
